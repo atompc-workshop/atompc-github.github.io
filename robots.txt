@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lucarossini-iit.github.io/sitemap.xml
+Sitemap: https://atompc-workshop.github.io/sitemap.xml
