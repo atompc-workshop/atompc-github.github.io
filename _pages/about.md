@@ -10,13 +10,18 @@ toc:
   sidebar: false
 ---
 
-<!-- <div class="abstract"> -->
+{%- include title.html -%}
+
+<h2 id="about" class="fancy-heading">ABOUT</h2>
+
+<div class="page-text">
 
 <p>Robotic technology has proven to be an excellent solution for aiding humans in an ever-increasing number of scenarios: from domestic and urban routines to industrial tasks, robots reduce the workload burden on humans and their exposure to hazards. Despite the capabilities demonstrated in recent years, many obstacles remain to be overcome. New challenges arise from the increasing capabilities of advanced robotic platforms. The more complex and unstructured the environment, the more robots should be versatile and reliable to overcome obstacles, plan optimal motions, and reliably accomplish the designed tasks.</p>
 
 <p>This workshop continues to explore state-of-the-art advancements in control strategies that are behind the abilities of such robots, namely, planning and control of dynamic, whole-body motions. Pursuing the thread initiated with the <a href="https://events.pal-robotics.com/humanoids22-workshop">first edition</a> of this workshop, we will focus on trajectory optimization and optimal control: successful approaches that exploit the robotic systems' dynamics, particularly under-actuated ones. This second edition will also address links and synergies with machine learning approaches, e.g. reinforcement learning or deep learning, which are undeniably increasing their relevance and popularity for planning and control applications. Both strategies boil down to a minimization (or maximization) of a desired metric, resulting in a sequence of the most effective actions to take. However, they are fundamentally different approaches that exhibit inherent advantages and drawbacks. How do robotic systems benefit from these methods? Which are the properties shared by the two? How to combine these strategies? These questions will be addressed, soliciting a discussion to compare ideas and solutions from the invited speakers.</p>
 
-<!-- </div> -->
+</div>
+
 
 <h2 id="speakers" class="fancy-heading">SPEAKERS</h2>
 <div class="card-container">
@@ -165,33 +170,28 @@ toc:
   </div>
 </div>
 
-<h2 id="organizers" class="fancy-heading">WORKSHOP ORGANIZERS</h2>
+<h2 id="organizers" class="fancy-heading">ORGANIZERS</h2>
 
 
 <div class="image-container">
 <a href="https://www.iit.it/it/people-details/-/people/luca-rossini"> 
   <img class="hoverable" style="border-radius: 50%" src="assets/img/luca_rossini.png" alt="Prof. Luis Sentis Picture" width="200" /> 
-  <figcaption class="image-caption">Luca Rossini</figcaption>
-  <p>IIT</p>
+  <figcaption class="image-caption">Luca Rossini<br>IIT</figcaption>
 </a>
 <a href="https://www.iit.it/it/people-details/-/people/francesco-ruscelli"> 
   <img class="hoverable" style="border-radius: 50%" src="assets/img/francesco_ruscelli.png" alt="Francesco Ruscelli Picture" width="200" /> 
-  <figcaption class="image-caption">Francesco Ruscelli</figcaption>
-  <p>IIT</p>
+  <figcaption class="image-caption">Francesco Ruscelli<br>IIT</figcaption>
 </a>
 <a href="https://members.loria.fr/EMingoHoffman/"> 
   <img class="hoverable" style="border-radius: 50%"  src="assets/img/enrico_mingo1.jpeg" alt="Enrico Mingo Hoffman Picture" width="200" /> 
-  <figcaption class="image-caption">Enrico Mingo Hoffman</figcaption>
-  <p>Inria</p>
+  <figcaption class="image-caption">Enrico Mingo Hoffman<br>Inria</figcaption>
 </a>
 <a href="https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis"> 
   <img class="hoverable" style="border-radius: 50%"  src="assets/img/luis_sentis.jpg" alt="Luis Sentis Picture" width="200" />   
-  <figcaption class="image-caption">Luis Sentis</figcaption>
-  <p>University of Texas at Austin</p>         
+  <figcaption class="image-caption">Luis Sentis<br>University of Texas at Austin</figcaption>
 </a>
 <a href = "https://cmastalli.github.io/"> 
   <img class="hoverable" style="border-radius: 50%" src = "assets/img/carlos_mastalli.jpeg" alt = "Carlos Mastalli Picture" width ="200"/> 
-  <figcaption class="image-caption">Carlos Mastalli</figcaption>
-  <p>Heriot-Watt University</p>
+  <figcaption class="image-caption">Carlos Mastalli<br>Heriot-Watt University</figcaption>
 </a>
 

@@ -17,18 +17,23 @@ p,
 // span,
 strong {
   color: var(--global-text-color);
-  font-size: 25px;
-  margin-left: 10%;
-  margin-right: 10%;
+  font-size: 20px;
+  // margin-left: 25%;
+  // margin-right: 25%;
+  margin-top: 100px;
+  text-align: justify;
 }
 
-.abstract {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  text-align: justify;
-  text-justify: inter-word;
-  margin-left: 10%;
-  margin-right: 10%;
+.page-text {
+  .p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: var(--global-text-color);
+  }
+  margin-left: 25%;
+  margin-right: 25%;
   margin-top: 100px;
 }
 
@@ -37,7 +42,9 @@ strong {
   text-align: center;
   position: relative;
   margin: 100px 0;
-  font-size: 50px;
+  font-size: 35px;
+  color: var(--global-theme-color);
+  font-weight: bold;
 }
 
 .fancy-heading::before,
@@ -648,11 +655,11 @@ footer.sticky-bottom {
 }
 
 .post-header {
-  background-image: url('/assets/img/icra2024_background.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: rgba(255,255,255,0.3);
-  background-blend-mode: lighten;
+  // background-image: url('/assets/img/icra2024_background.jpg');
+  // background-size: cover;
+  // background-repeat: no-repeat;
+  // background-color: rgba(255,255,255,0.3);
+  // background-blend-mode: lighten;
   max-width: 100%;
   margin: auto;
 }
@@ -1188,6 +1195,9 @@ nav[data-toggle="toc"] {
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
+      margin-top: 5px; 
+      margin-left: 0%; 
+      margin-right: 0%;
     }
 
     &:hover {
