@@ -47,6 +47,8 @@ toc:
 
 </div>
 
+<h2 id="speakers" class="fancy-heading">PROGRAM</h2>
+<p style="text-align: center; font-weight: bold">The program will be availabe soon!<p>
 
 <h2 id="speakers" class="fancy-heading">SPEAKERS</h2>
 <div class="card-container">
