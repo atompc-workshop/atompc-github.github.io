@@ -23,7 +23,7 @@ strong {
 
 .page-text {
   font-size: 25px;
-  .p {
+  .p, .i {
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
     text-justify: inter-word;
@@ -66,6 +66,29 @@ strong {
             width: 30%;
 }
 
+.program-table {
+  width: 100%;
+  max-width: 60%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.program-table th {
+  padding: 8px;
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.418);
+}
+
+.program-table td {
+  padding: 8px;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 13px;
+}
+
+.program-table thead {
+}
+
 
 .card-container {
   display: flex;
@@ -73,6 +96,7 @@ strong {
   justify-content: center;
   margin-left: 10%;
   margin-right: 10%;
+  margin-top: 50px;
 }
 
 // Organizers image container
@@ -496,7 +520,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {

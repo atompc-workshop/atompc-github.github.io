@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 
 toc:
   sidebar: false
@@ -48,9 +48,108 @@ toc:
 </div>
 
 <h2 id="speakers" class="fancy-heading">PROGRAM</h2>
-<p style="text-align: center; font-weight: bold">The program will be availabe soon!<p>
+
+<table class="program-table">
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Section</th>
+            <th>Speaker</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>8:45 - 9:00</td>
+            <td>Welcome</td>
+            <td>Organizers</td>
+        </tr>
+        <tr>
+            <td>9:00 - 9:30</td>
+            <td>Talk 1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9:30 - 10:00</td>
+            <td>Talk 2</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:00 - 10:30</td>
+            <td>Talk 3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:30 - 11:00 </td>
+            <td>Coffee Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:00 - 11:30</td>
+            <td>Talk 4</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:30 - 12:00</td>
+            <td>Talk 5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12:00 - 13:00</td>
+            <td>Poster Session</td>
+            <td>Accepted Authors</td>
+        </tr>
+        <tr>
+            <td>13:00 - 14:00</td>
+            <td>Lunch Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:00 - 14:30</td>
+            <td>Talk 6</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:30 - 15:00</td>
+            <td>Talk 7</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:00 - 15:30</td>
+            <td>Talk 8</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15:30 - 16:00</td>
+            <td>Coffee Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:00 - 16:30</td>
+            <td>Talk 9</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>16:30 - 17:15</td>
+            <td>Final Discussion</td>
+            <td>Oranizers + Speakers</td>
+        </tr>
+        <tr>
+            <td>17:15 - 17:30</td>
+            <td>Best Poster Award</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>19:00 - 22:00</td>
+            <td>Social Dinner</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="speakers" class="fancy-heading">SPEAKERS</h2>
+<div class="page-text">
+<i>Click the play button on the top-right of each card to see the recorded talk!</i>
+</div>
 <div class="card-container">
   <div class="card hoverable" style="width: 250px; height: 440px">
     <a href="https://www.cs.washington.edu/people/postdocs/tassa">
@@ -230,4 +329,13 @@ toc:
   <img class="hoverable" style="border-radius: 50%" src = "assets/img/carlos_mastalli.jpeg" alt = "Carlos Mastalli Picture" width ="200"/> 
   <figcaption style="color: var(--global-text-color)" class="image-caption">Carlos Mastalli<br>Heriot-Watt University</figcaption>
 </a>
+
+</div>
+
+<h2 class="fancy-heading"> SPONSORS </h2>
+<div class="social">
+  <div class="contact-icons">
+    {%- include sponsors.html -%}
+  </div>
+</div>
 

@@ -22,13 +22,16 @@ layout: default
             <div class="contact-icons">
               {% include social.html %}
             </div>
+          </div>
+        {%- endif %}
+        <div class="social">
+          
+          <div class="contact-note">
+            {{ site.contact_note }}
+          </div>
 
-            <div class="contact-note">
-              {{ site.contact_note }}
-            </div>
-
-            </div>
-          {%- endif %}
+        </div>
+      
         </article>
 
 </div>
