@@ -141,7 +141,7 @@ toc:
         <tr>
             <td>19:00 - 22:00</td>
             <td>Social Dinner</td>
-            <td></td>
+            <td>Organizers + Speakers + Finalists</td>
         </tr>
     </tbody>
 </table>
