@@ -157,7 +157,7 @@ toc:
     </a>
     <div class="card-body">
       <h2 class="card-title" style="font-size: 17px">Yuval Tassa</h2>
-      <h3 class="card-subtitle">Google DeepMing</h3>
+      <h3 class="card-subtitle">Google DeepMind</h3>
       <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Trajectory optimization with MuJoCo</p>          
     </div>
     {%- include pop-up.html
