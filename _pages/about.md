@@ -254,7 +254,7 @@ toc:
   </div>
 
   <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href = "https://webapps.unitn.it/du/it/Persona/PER0197808/Didattica">
+    <a href = "https://andreadelprete.github.io/">
     <img src="assets/img/andrea_del_prete.jpeg" alt="Andrea Del Prete Picture"/> 
     </a>
     <div class="card-body">
