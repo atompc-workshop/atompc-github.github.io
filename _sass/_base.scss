@@ -71,22 +71,27 @@ strong {
   max-width: 60%;
   margin: 0 auto;
   border-collapse: collapse;
+  border-color: rgba(0, 0, 0, 0.76);
 }
 
 .program-table th {
   padding: 8px;
   text-align: center;
-  background-color: rgba(128, 128, 128, 0.418);
+  background-color: rgba(180, 25, 25, 0.74);
+  border-color: rgba(0, 0, 0, 0.76);
+  // border-bottom-color: rgba(0, 0, 0, 0.76);
 }
 
-.program-table td {
+.program-table td{
   padding: 8px;
-  padding-left: 20px;
+  padding-left: 20pxx;
   text-align: left;
-  font-size: 13px;
+  font-size: 16px;  
+  border-color: rgba(0, 0, 0, 0.76);
 }
 
 .program-table thead {
+  // border-color: rgba(0, 0, 0, 0.76)
 }
 
 

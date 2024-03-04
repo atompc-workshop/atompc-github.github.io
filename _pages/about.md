@@ -59,89 +59,89 @@ toc:
     </thead>
     <tbody>
         <tr>
-            <td>8:45 - 9:00</td>
-            <td>Welcome</td>
-            <td>Organizers</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">8:45 - 9:00</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Welcome</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Organizers</td>
         </tr>
         <tr>
-            <td>9:00 - 9:30</td>
-            <td>Talk 1</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">9:00 - 9:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 1</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Andrea Del Prete</td>
         </tr>
         <tr>
-            <td>9:30 - 10:00</td>
-            <td>Talk 2</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">9:30 - 10:00</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 2</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Carlos Mastalli</td>
         </tr>
         <tr>
-            <td>10:00 - 10:30</td>
-            <td>Talk 3</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">10:00 - 10:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 3</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Patrick Wensing</td>
         </tr>
         <tr>
-            <td>10:30 - 11:00 </td>
-            <td>Coffee Break</td>
-            <td></td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">10:30 - 11:00 </td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">Coffee Break</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)"></td>
         </tr>
         <tr>
-            <td>11:00 - 11:30</td>
-            <td>Talk 4</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">11:00 - 11:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 4</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Wang XingXing</td>
         </tr>
         <tr>
-            <td>11:30 - 12:00</td>
-            <td>Talk 5</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">11:30 - 12:00</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 5</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Johannes Englsberger</td>
         </tr>
         <tr>
-            <td>12:00 - 13:00</td>
-            <td>Poster Session</td>
-            <td>Accepted Authors</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">12:00 - 13:00</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Poster Session</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Accepted Authors</td>
         </tr>
         <tr>
-            <td>13:00 - 14:00</td>
-            <td>Lunch Break</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">13:00 - 14:00</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Lunch Break</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)"></td>
         </tr>
         <tr>
-            <td>14:00 - 14:30</td>
-            <td>Talk 6</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">14:00 - 14:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 6</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Jean-Pierre Sleiman</td>
         </tr>
         <tr>
-            <td>14:30 - 15:00</td>
-            <td>Talk 7</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">14:30 - 15:00</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 7</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Yuval Tassa</td>
         </tr>
         <tr>
-            <td>15:00 - 15:30</td>
-            <td>Talk 8</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">15:00 - 15:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 8</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Serena Ivaldi</td>
         </tr>
         <tr>
-            <td>15:30 - 16:00</td>
-            <td>Coffee Break</td>
-            <td></td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">15:30 - 16:00</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">Coffee Break</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)"></td>
         </tr>
         <tr>
-            <td>16:00 - 16:30</td>
-            <td>Talk 9</td>
-            <td></td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">16:00 - 16:30</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 9</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Nicolas Mansard</td>
         </tr>
         <tr>
-            <td>16:30 - 17:15</td>
-            <td>Final Discussion</td>
-            <td>Oranizers + Speakers</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">16:30 - 17:15</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Final Discussion</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Oranizers + Speakers</td>
         </tr>
         <tr>
-            <td>17:15 - 17:30</td>
-            <td>Best Poster Award</td>
-            <td></td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">17:15 - 17:30</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Best Poster Award</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)"></td>
         </tr>
         <tr>
-            <td>19:00 - 22:00</td>
-            <td>Social Dinner</td>
-            <td>Organizers + Speakers + Finalists</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">19:00 - 22:00</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">Social Dinner</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">Organizers + Speakers + Finalists</td>
         </tr>
     </tbody>
 </table>
