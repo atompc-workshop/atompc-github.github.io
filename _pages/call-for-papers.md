@@ -28,7 +28,7 @@ Prospective authors are invited to submit their work sending an extended abstrac
 <h2 style="margin-top: 50px">Important Dates</h2>
 
 <ul style="margin: 10px 0 10px 10px">
-  <li>15/03/2024: Extended abstract submission deadline</li>
+  <li>31/03/2024: Extended abstract submission deadline</li>
   <li>15/04/2024: Notice of acceptance</li>
   <li>17/05/2024: Poster presentation at the workshop</li>
 </ul>
