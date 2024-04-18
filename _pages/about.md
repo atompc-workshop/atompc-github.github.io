@@ -76,7 +76,7 @@ toc:
         <tr>
             <td style="background-color: rgba(88, 190, 40, 0.288)">10:00 - 10:30</td>
             <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 3</td>
-            <td style="background-color: rgba(88, 190, 40, 0.288)">Patrick Wensing</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Johannes Englsberger</td>
         </tr>
         <tr>
             <td style="background-color: rgba(190, 167, 40, 0.288)">10:30 - 11:00 </td>
@@ -91,7 +91,7 @@ toc:
         <tr>
             <td style="background-color: rgba(88, 190, 40, 0.288)">11:30 - 12:00</td>
             <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 5</td>
-            <td style="background-color: rgba(88, 190, 40, 0.288)">Johannes Englsberger</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Patrick Wensing</td>
         </tr>
         <tr>
             <td style="background-color: rgba(25, 131, 180, 0.288)">12:00 - 13:00</td>
