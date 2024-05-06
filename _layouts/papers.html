@@ -2,24 +2,39 @@
 layout: "default"
 ---
 
-<h2 class="fancy-heading">{{ page.title }}</h2>
+<script>
+    function togglePDF(id) {
+        var text = document.getElementById(id);
+        if (text.style.display === "none") {
+            text.style.display = "block";
+        } else {
+            text.style.display = "none";
+        }
+}
+</script>
+
+<h2 class="fancy-heading">PAPERS</h2>
 
 
 {% for paper in page.papers %}
     <div class="container" style="padding-left: 20%; padding-right: 20%;">
         <div class="col">
             <div class="row">
-                <h1> {{ paper.title }} </h1>
+                <h1> {{ paper.title }} </h1> 
+            </div>
+            <div class="row" style="margin-bottom: 10px;">
                 <h2> {{ paper.authors }} </h2>
             </div>
-            <div class="row">
-            <button style="background-color: red"
+            <div class="row" style="margin-bottom: 20px;">
+            <button style="background-color: var(--global-theme-color); color: rgb(255, 255, 255)"
                     type="button" 
-                    class="btn btn-info collapsed" 
-                    data-toggle="collapse" 
-                    data-target="#paper19"
+                    class="btn collapsed" 
+                    onclick="togglePDF('{{ paper.filename }}')"
                     aria-expanded="false">Abstract and Paper</button> 
             </div>           
+        </div>
+        <div id="{{ paper.filename }}" style="display: none">
+            <iframe src="/assets/pdf/{{ paper.filename }}" height="1000" width="100%"></iframe>
         </div>
     </div>
 {% endfor%}
