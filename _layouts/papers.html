@@ -17,7 +17,8 @@ layout: "default"
 
 
 {% for paper in page.papers %}
-    <div class="container" style="padding-left: 20%; padding-right: 20%;">
+<li style="margin-left: 20%; margin-right: 20%"">
+    <div class="container">
         <div class="col">
             <div class="row">
                 <h1> {{ paper.title }} </h1> 
@@ -30,13 +31,14 @@ layout: "default"
                     type="button" 
                     class="btn collapsed" 
                     onclick="togglePDF('{{ paper.filename }}')"
-                    aria-expanded="false">Abstract and Paper</button> 
+                    aria-expanded="false">Paper</button> 
             </div>           
         </div>
-        <div id="{{ paper.filename }}" style="display: none">
+        <div id="{{ paper.filename }}" style="display: none; margin-bottom: 50px">
             <iframe src="/assets/pdf/{{ paper.filename }}" height="1000" width="100%"></iframe>
         </div>
     </div>
+</li>
 {% endfor%}
 
 </div>
