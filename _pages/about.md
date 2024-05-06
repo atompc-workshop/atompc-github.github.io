@@ -271,18 +271,18 @@ toc:
   </div>
 
   <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href = "https://gepettoweb.laas.fr/index.php/Members/NicolasMansard">
-    <img src="assets/img/nicolas_mansard.jpg" alt="Nicolas Mansard Picture"/> 
+    <a href = "https://gepettoweb.laas.fr/index.php/Members/Pierre-AlexandreLeziart">
+    <img src="assets/img/pierre-alexandre_leziart.jpeg" alt="Pierre-Alexandre Leziart Picture"/> 
     </a>
     <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Nicolas Mansard</h2>
-      <h3 class="card-subtitle">LAAS-CNRS</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Whole-body MPC on real robots, by combining advanced solver and machine learning</p>
+      <h2 class="card-title" style="font-size: 17px">Pierre-Alexandre Leziart</h2>
+      <h3 class="card-subtitle">JRL Tsukuba</h3>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Should we optimize or learn the locomotion of robots?</p>
     </div>
     {%- include pop-up.html
-      id = "nicolas_mansard_modal"
-      title = "Nicolas Mansard" -%}
-    <button type="button" class="circular-button" data-toggle="modal" data-target="#nicolas_mansard_modal">
+      id = "pierre_leziart_modal"
+      title = "Pierre-Alexandre Leziart" -%}
+    <button type="button" class="circular-button" data-toggle="modal" data-target="#pierre_leziart_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
   </div>
