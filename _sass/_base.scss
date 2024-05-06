@@ -21,6 +21,23 @@ strong {
   text-align: justify;
 }
 
+h1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: justify;
+  text-justify: inter-word;
+  color: var(--global-text-color);
+}
+
+h2 {
+  font-size: 20px;
+  font-type: italic;
+  text-align: justify;
+  text-justify: inter-word;
+  color: var(--global-text-color);
+}
+
+
 .page-text {
   font-size: 25px;
   .p, .i {

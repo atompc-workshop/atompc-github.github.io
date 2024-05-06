@@ -1,0 +1,28 @@
+---
+layout: "default"
+---
+
+<h2 class="fancy-heading">{{ page.title }}</h2>
+
+
+{% for paper in page.papers %}
+    <div class="container" style="padding-left: 20%; padding-right: 20%;">
+        <div class="col">
+            <div class="row">
+                <h1> {{ paper.title }} </h1>
+                <h2> {{ paper.authors }} </h2>
+            </div>
+            <div class="row">
+            <button style="background-color: red"
+                    type="button" 
+                    class="btn btn-info collapsed" 
+                    data-toggle="collapse" 
+                    data-target="#paper19"
+                    aria-expanded="false">Abstract and Paper</button> 
+            </div>           
+        </div>
+    </div>
+{% endfor%}
+
+</div>
+

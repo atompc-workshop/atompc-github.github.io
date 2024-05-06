@@ -4,7 +4,7 @@ permalink: /call-for-papers/
 title: Call for Papers
 description: Call for Papers page
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
 <h1 class="fancy-heading">CALL FOR PAPERS</h1>
