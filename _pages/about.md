@@ -126,7 +126,7 @@ toc:
         <tr>
             <td style="background-color: rgba(88, 190, 40, 0.288)">16:00 - 16:30</td>
             <td style="background-color: rgba(88, 190, 40, 0.288)">Talk 9</td>
-            <td style="background-color: rgba(88, 190, 40, 0.288)">Nicolas Mansard</td>
+            <td style="background-color: rgba(88, 190, 40, 0.288)">Pierre-Alexandre Léziart</td>
         </tr>
         <tr>
             <td style="background-color: rgba(25, 131, 180, 0.288)">16:30 - 17:15</td>
@@ -281,7 +281,7 @@ toc:
     </div>
     {%- include pop-up.html
       id = "pierre_leziart_modal"
-      title = "Pierre-Alexandre Leziart" -%}
+      title = "Pierre-Alexandre Léziart" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#pierre_leziart_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
