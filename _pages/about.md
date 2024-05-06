@@ -275,7 +275,7 @@ toc:
     <img src="assets/img/pierre-alexandre_leziart.jpeg" alt="Pierre-Alexandre Leziart Picture"/> 
     </a>
     <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Pierre-Alexandre Leziart</h2>
+      <h2 class="card-title" style="font-size: 17px">Pierre-Alexandre Léziart</h2>
       <h3 class="card-subtitle">JRL Tsukuba</h3>
       <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Should we optimize or learn the locomotion of robots?</p>
     </div>
