@@ -131,7 +131,7 @@ toc:
         <tr>
             <td style="background-color: rgba(25, 131, 180, 0.288)">16:30 - 17:15</td>
             <td style="background-color: rgba(25, 131, 180, 0.288)">Final Discussion</td>
-            <td style="background-color: rgba(25, 131, 180, 0.288)">Oranizers + Speakers</td>
+            <td style="background-color: rgba(25, 131, 180, 0.288)">Organizers + Speakers</td>
         </tr>
         <tr>
             <td style="background-color: rgba(25, 131, 180, 0.288)">17:15 - 17:30</td>
@@ -139,7 +139,7 @@ toc:
             <td style="background-color: rgba(25, 131, 180, 0.288)"></td>
         </tr>
         <tr>
-            <td style="background-color: rgba(190, 167, 40, 0.288)">19:00 - 22:00</td>
+            <td style="background-color: rgba(190, 167, 40, 0.288)">20:00 - 22:00</td>
             <td style="background-color: rgba(190, 167, 40, 0.288)">Social Dinner</td>
             <td style="background-color: rgba(190, 167, 40, 0.288)">Organizers + Speakers + Finalists</td>
         </tr>
