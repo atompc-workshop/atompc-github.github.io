@@ -277,7 +277,7 @@ toc:
     <div class="card-body">
       <h2 class="card-title" style="font-size: 17px">Pierre-Alexandre Léziart</h2>
       <h3 class="card-subtitle">JRL Tsukuba</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Should we optimize or learn the locomotion of robots?</p>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Artificial locomotion: should we learn or optimize?</p>
     </div>
     {%- include pop-up.html
       id = "pierre_leziart_modal"
