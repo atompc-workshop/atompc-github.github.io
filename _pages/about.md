@@ -243,7 +243,7 @@ toc:
     <div class="card-body">
       <h2 class="card-title" style="font-size: 17px">Carlos Mastalli</h2>
       <h3 class="card-subtitle">Heriot-Watt University</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Accelerating Algorithms for Numerical Optimization in Full-Dynamics MPC</p>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Unlocking Agile and Object-Aware Loco-Manipulation</p>
     </div>
     {%- include pop-up.html
       id = "carlos_mastalli_modal"
