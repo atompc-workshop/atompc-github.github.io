@@ -179,7 +179,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "johannes_englsberger_modal"
-      title = "Johannes Englsberger" -%}
+      title = "Johannes Englsberger"
+      url = "https://www.youtube.com/embed/4zjc2LwbXBI?si=k6Y8ACVyH5uj37ma" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#johannes_englsberger_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -196,7 +197,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "patrick_wensing_modal"
-      title = "Patrick Wensing" -%}
+      title = "Patrick Wensing"
+      url = "https://www.youtube.com/embed/kxZlH4Js3t8?si=HmZH8a9JYEkFdia4" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#patrick_wensing_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -213,7 +215,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "jean_pierre_sleiman_modal"
-      title = "Jean Pierre Sleiman" -%}
+      title = "Jean Pierre Sleiman"
+      url = "https://www.youtube.com/embed/4DUcAA03sEQ?si=OhnM6aBW748Zo6nF" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#jean_pierre_sleiman_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -230,7 +233,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "serena_ivaldi_modal"
-      title = "Serena Ivaldi" -%}
+      title = "Serena Ivaldi"
+      url = "https://www.youtube.com/embed/YYKBzQzNo8E?si=3RamvTKYIIv0ocvb" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#serena_ivaldi_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -247,7 +251,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "carlos_mastalli_modal"
-      title = "Carlos Mastalli" -%}
+      title = "Carlos Mastalli"
+      url = "https://www.youtube.com/embed/B9jkmz7acdI?si=6SJJi88qCSR1bZEj" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#carlos_mastalli_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -264,7 +269,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "andrea_del_prete_modal"
-      title = "Andrea Del Prete" -%}
+      title = "Andrea Del Prete" 
+      url = "https://www.youtube.com/embed/AvfbkVeRCK8?si=E8iXAEo1TuATmTej"-%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#andrea_del_prete_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -281,7 +287,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "pierre_leziart_modal"
-      title = "Pierre-Alexandre Léziart" -%}
+      title = "Pierre-Alexandre Léziart" 
+      url = "https://www.youtube.com/embed/PY1B6MeQQsI?si=FAVw-pZSWXrFctqG"-%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#pierre_leziart_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
@@ -298,7 +305,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "wang_xingxing_modal"
-      title = "Wang Xingxing" -%}
+      title = "Wang Xingxing" 
+      url = "https://www.youtube.com/embed/IGQbWeKnxUU?si=1DNluLG4oD44kdL0" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#wang_xingxing_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
