@@ -152,19 +152,37 @@ toc:
 </div>
 <div class="card-container">
   <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href="https://www.cs.washington.edu/people/postdocs/tassa">
-    <img src="assets/img/yuval_tassa.jpg" alt="Yuval Tassa Picture"/> 
+    <a href = "https://andreadelprete.github.io/">
+    <img src="assets/img/andrea_del_prete.jpeg" alt="Andrea Del Prete Picture"/> 
     </a>
     <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Yuval Tassa</h2>
-      <h3 class="card-subtitle">Google DeepMind</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Trajectory optimization with MuJoCo</p>          
+      <h2 class="card-title" style="font-size: 17px">Andrea Del Prete</h2>
+      <h3 class="card-subtitle">Università di Trento</h3>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Integrating learning and trajectory optimization to achieve safe and efficient robot control</p>
     </div>
     {%- include pop-up.html
-      id = "yuval_tassa_modal"
-      title = 'Yuval Tassa'
-      url = "https://www.youtube.com/embed/_QjjmQSFX90?si=0s7p9f1uSPDy1tv5" -%}
-    <button type="button" class="circular-button" data-toggle="modal" data-target="#yuval_tassa_modal">
+      id = "andrea_del_prete_modal"
+      title = "Andrea Del Prete" 
+      url = "https://www.youtube.com/embed/AvfbkVeRCK8?si=E8iXAEo1TuATmTej"-%}
+    <button type="button" class="circular-button" data-toggle="modal" data-target="#andrea_del_prete_modal">
+      <span class="material-symbols-outlined">play_circle</span> 
+    </button>
+  </div>
+
+  <div class="card hoverable" style="width: 250px; height: 440px">
+    <a href = "https://cmastalli.github.io/">
+    <img src="assets/img/carlos_mastalli.jpeg" alt="Carlos Mastalli Picture"/> 
+    </a>
+    <div class="card-body">
+      <h2 class="card-title" style="font-size: 17px">Carlos Mastalli</h2>
+      <h3 class="card-subtitle">Heriot-Watt University</h3>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Unlocking Agile and Object-Aware Loco-Manipulation</p>
+    </div>
+    {%- include pop-up.html
+      id = "carlos_mastalli_modal"
+      title = "Carlos Mastalli"
+      url = "https://www.youtube.com/embed/B9jkmz7acdI?si=6SJJi88qCSR1bZEj" -%}
+    <button type="button" class="circular-button" data-toggle="modal" data-target="#carlos_mastalli_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
   </div>
@@ -183,6 +201,24 @@ toc:
       title = "Johannes Englsberger"
       url = "https://www.youtube.com/embed/4zjc2LwbXBI?si=k6Y8ACVyH5uj37ma" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#johannes_englsberger_modal">
+      <span class="material-symbols-outlined">play_circle</span> 
+    </button>
+  </div>
+
+  <div class="card hoverable" style="width: 250px; height: 440px">
+    <a href = "#">
+    <img src="assets/img/wang_xingxing.jpg" alt="Wang Xingxing Picture"/> 
+    </a>
+    <div class="card-body">
+      <h2 class="card-title" style="font-size: 17px">Wang Xingxing</h2>
+      <h3 class="card-subtitle">Founder & CEO of Unitree</h3>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> AI-powered humanoid robot</p>
+    </div>
+    {%- include pop-up.html
+      id = "wang_xingxing_modal"
+      title = "Wang Xingxing" 
+      url = "https://www.youtube.com/embed/IGQbWeKnxUU?si=1DNluLG4oD44kdL0" -%}
+    <button type="button" class="circular-button" data-toggle="modal" data-target="#wang_xingxing_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
   </div>
@@ -242,37 +278,19 @@ toc:
   </div>
 
   <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href = "https://cmastalli.github.io/">
-    <img src="assets/img/carlos_mastalli.jpeg" alt="Carlos Mastalli Picture"/> 
+    <a href="https://www.cs.washington.edu/people/postdocs/tassa">
+    <img src="assets/img/yuval_tassa.jpg" alt="Yuval Tassa Picture"/> 
     </a>
     <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Carlos Mastalli</h2>
-      <h3 class="card-subtitle">Heriot-Watt University</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Unlocking Agile and Object-Aware Loco-Manipulation</p>
+      <h2 class="card-title" style="font-size: 17px">Yuval Tassa</h2>
+      <h3 class="card-subtitle">Google DeepMind</h3>
+      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Trajectory optimization with MuJoCo</p>          
     </div>
     {%- include pop-up.html
-      id = "carlos_mastalli_modal"
-      title = "Carlos Mastalli"
-      url = "https://www.youtube.com/embed/B9jkmz7acdI?si=6SJJi88qCSR1bZEj" -%}
-    <button type="button" class="circular-button" data-toggle="modal" data-target="#carlos_mastalli_modal">
-      <span class="material-symbols-outlined">play_circle</span> 
-    </button>
-  </div>
-
-  <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href = "https://andreadelprete.github.io/">
-    <img src="assets/img/andrea_del_prete.jpeg" alt="Andrea Del Prete Picture"/> 
-    </a>
-    <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Andrea Del Prete</h2>
-      <h3 class="card-subtitle">Università di Trento</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> Integrating learning and trajectory optimization to achieve safe and efficient robot control</p>
-    </div>
-    {%- include pop-up.html
-      id = "andrea_del_prete_modal"
-      title = "Andrea Del Prete" 
-      url = "https://www.youtube.com/embed/AvfbkVeRCK8?si=E8iXAEo1TuATmTej"-%}
-    <button type="button" class="circular-button" data-toggle="modal" data-target="#andrea_del_prete_modal">
+      id = "yuval_tassa_modal"
+      title = 'Yuval Tassa'
+      url = "https://www.youtube.com/embed/_QjjmQSFX90?si=0s7p9f1uSPDy1tv5" -%}
+    <button type="button" class="circular-button" data-toggle="modal" data-target="#yuval_tassa_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
   </div>
@@ -295,23 +313,7 @@ toc:
     </button>
   </div>
 
-  <div class="card hoverable" style="width: 250px; height: 440px">
-    <a href = "#">
-    <img src="assets/img/wang_xingxing.jpg" alt="Wang Xingxing Picture"/> 
-    </a>
-    <div class="card-body">
-      <h2 class="card-title" style="font-size: 17px">Wang Xingxing</h2>
-      <h3 class="card-subtitle">Founder & CEO of Unitree</h3>
-      <p class="card-text" style="text-align: left; margin-top: 5px"><b>Title:</b> AI-powered humanoid robot</p>
-    </div>
-    {%- include pop-up.html
-      id = "wang_xingxing_modal"
-      title = "Wang Xingxing" 
-      url = "https://www.youtube.com/embed/IGQbWeKnxUU?si=1DNluLG4oD44kdL0" -%}
-    <button type="button" class="circular-button" data-toggle="modal" data-target="#wang_xingxing_modal">
-      <span class="material-symbols-outlined">play_circle</span> 
-    </button>
-  </div>
+  
 </div>
 
 <h2 id="organizers" class="fancy-heading">ORGANIZERS</h2>
