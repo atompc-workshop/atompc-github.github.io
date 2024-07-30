@@ -162,7 +162,8 @@ toc:
     </div>
     {%- include pop-up.html
       id = "yuval_tassa_modal"
-      title = 'Yuval Tassa' -%}
+      title = 'Yuval Tassa'
+      url = "https://www.youtube.com/embed/_QjjmQSFX90?si=0s7p9f1uSPDy1tv5" -%}
     <button type="button" class="circular-button" data-toggle="modal" data-target="#yuval_tassa_modal">
       <span class="material-symbols-outlined">play_circle</span> 
     </button>
